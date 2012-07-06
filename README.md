@@ -1,5 +1,5 @@
-This is the firetorrent add-on.  It contains:
+This is the FireTorrent Firefox add-on.
 
-* A program (lib/main.js).
-* A few tests.
-* Some meager documentation.
+It adds transparent support for magnet: protocol, so browser can directly open bittorrent-delivered content.
+
+It's based on source code from summerTorrent project for Node.js
