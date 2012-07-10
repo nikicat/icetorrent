@@ -1,9 +1,9 @@
 {
-    "name": "firetorrent", 
+    "name": "icetorrent", 
     "license": "MPL 2.0", 
     "author": "", 
     "version": "0.1", 
-    "fullName": "firetorrent", 
+    "fullName": "icetorrent", 
     "id": "jid1-VKS6xZQfcCuApg", 
-    "description": "a basic add-on"
+    "description": "magnet: URI native support"
 }
