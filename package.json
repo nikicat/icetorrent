@@ -2,8 +2,9 @@
     "name": "icetorrent", 
     "license": "MPL 2.0", 
     "author": "", 
-    "version": "0.1", 
+    "version": "0.1.0", 
     "fullName": "icetorrent", 
     "id": "jid1-VKS6xZQfcCuApg", 
-    "description": "magnet: URI native support"
+    "description": "magnet: URI native support",
+    "main": "lib/main.js"
 }
