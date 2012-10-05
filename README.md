@@ -1,5 +1,6 @@
-This is the FireTorrent Firefox add-on.
+IceTorrent Firefox add-on.
+==========================
 
-It adds transparent support for magnet: protocol, so browser can directly open bittorrent-delivered content.
+IceTorrent adds transparent support for torrent: and magnet: protocols, so browser can directly open bittorrent-delivered content.
 
-It's based on source code from summerTorrent project for Node.js
+IceTorrent based on original source code from summerTorrent project for Node.js, but is heavily refactored.
