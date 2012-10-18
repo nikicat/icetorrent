@@ -6,5 +6,16 @@
     "fullName": "icetorrent", 
     "id": "jid1-VKS6xZQfcCuApg", 
     "description": "magnet: URI native support",
-    "main": "lib/main.js"
+    "main": "lib/main.js",
+    "preferences": [{
+        "name": "downloadDir",
+        "title": "directory to save data",
+        "type": "string",
+        "value": "~/.local/share/icetorrent/donwload"
+    },{
+        "name": "torrentsDir",
+        "title": "directory to save torrents",
+        "type": "string",
+        "value": "~/.local/share/icetorrent/torrents"
+    }]
 }
